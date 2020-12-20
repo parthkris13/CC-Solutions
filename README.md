@@ -1,5 +1,5 @@
-"# Competitive-Coding-Solutions" 
-"# Competitive-Coding-Solutions" 
-"# Coding-Contest-Solutions" 
-"# Coding-Contest-Solutions" 
-"# CC-Solutions" 
+My solutions to competitive programming problems on various popular websites such as
+"# Codeforces" 
+"# Codechef" 
+"# Google Kickstart" 
+"# AtCoder" 
